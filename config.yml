@@ -1,0 +1,5 @@
+os:
+  editPreset: 'nvim'
+keybinding:
+  universal:
+    return: '<c-q>'
